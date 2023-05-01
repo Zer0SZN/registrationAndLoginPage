@@ -1,5 +1,5 @@
 Registration and Login Page 
-Responsive registration and login page with JavaScript
+Responsive registration and login page with JavaScript using strict rules and condition.
 
 
 <------------------------Framework-----------------------------/> 
